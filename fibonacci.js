@@ -3,7 +3,7 @@ function fib(numMax){
         x=i+j;
         fibArray.push(x);
     }
-    console.log(fibArray);
+    return fibArray;
 }
 // console.log(fib(10));
 

@@ -5,6 +5,6 @@ describe('math functions', () => {
         expect(ordernar([72,10,22,45,88])).toEqual([10, 22, 45, 72, 88])
     })
     it('ordenar', () => {
-        expect(ordernar([72,10,22,45,88])).toEqual([45,22,72,10,88])
+        expect(ordernar([72,10,22,45,88])).not.toEqual([45,22,72,10,88])
     })
 })

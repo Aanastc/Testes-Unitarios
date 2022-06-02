@@ -14,7 +14,6 @@ function mdc(a, b) {
             mdcResultado = mdc(mdcResultado, numberList[i]);
             console.log(mdcResultado);
         }
-        console.log(mdcResultado);
         return mdcResultado;
     }
     mdcLista([160, 32, 26]);

@@ -9,4 +9,4 @@ function contador (notas){
 }
 
 // console.log(contador(100));
-module.exports = {contador};
+module.exports = contador;

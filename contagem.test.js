@@ -2,9 +2,9 @@ const notas = require('./contagem');
 
 describe('math functions', () => {
     it('contagem', () => {
-        expect(contagem(10,3)).toEqual(10)
+        expect(notas([50,50])).toEqual(2)
     })
     it('contagem', () => {
-        expect(contagem(2,3)).toEqual(5)
+        expect(notas([50,1])).toEqual(1)
     })
 })
