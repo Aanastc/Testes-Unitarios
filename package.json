@@ -1,0 +1,15 @@
+{
+  "name": "entregavel-1---html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "somatorio.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
