@@ -1,1 +1,1 @@
-EU SOU FEIA
+Explicação:
